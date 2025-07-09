@@ -108,6 +108,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 👤 Contact
 
 - **Noshi26** - [GitHub Profile](https://github.com/Noshi26)
+- **Jarin-islam-Shova** - [GitHub Profile](https://github.com/Jarin-islam-Shova)
 - **Project Link:** https://github.com/Noshi26/World-AI
 
 ---
